@@ -1,0 +1,787 @@
+[
+    {
+      "name": "Denmark",
+      "country": "Denmark",
+      "value1": 7
+    },
+    {
+      "name": "Switzerland",
+      "country": "Switzerland",
+      "value1": 7
+    },
+    {
+      "name": "Iceland",
+      "country": "Iceland",
+      "value1": 7
+    },
+    {
+      "name": "Norway",
+      "country": "Norway",
+      "value1": 7
+    },
+    {
+      "name": "Finland",
+      "country": "Finland",
+      "value1": 7
+    },
+    {
+      "name": "Canada",
+      "country": "Canada",
+      "value1": 7
+    },
+    {
+      "name": "Netherlands",
+      "country": "Netherlands",
+      "value1": 7
+    },
+    {
+      "name": "New Zealand",
+      "country": "New Zealand",
+      "value1": 7
+    },
+    {
+      "name": "Australia",
+      "country": "Australia",
+      "value1": 7
+    },
+    {
+      "name": "Sweden",
+      "country": "Sweden",
+      "value1": 7
+    },
+    {
+      "name": "Israel",
+      "country": "Israel",
+      "value1": 7
+    },
+    {
+      "name": "Austria",
+      "country": "Austria",
+      "value1": 7
+    },
+    {
+      "name": "United States",
+      "country": "United States",
+      "value1": 7
+    },
+    {
+      "name": "Costa Rica",
+      "country": "Costa Rica",
+      "value1": 7
+    },
+    {
+      "name": "Puerto Rico",
+      "country": "Puerto Rico",
+      "value1": 7
+    },
+    {
+      "name": "Germany",
+      "country": "Germany",
+      "value1": 6
+    },
+    {
+      "name": "Brazil",
+      "country": "Brazil",
+      "value1": 6
+    },
+    {
+      "name": "Belgium",
+      "country": "Belgium",
+      "value1": 6
+    },
+    {
+      "name": "Ireland",
+      "country": "Ireland",
+      "value1": 6
+    },
+    {
+      "name": "Luxembourg",
+      "country": "Luxembourg",
+      "value1": 6
+    },
+    {
+      "name": "Mexico",
+      "country": "Mexico",
+      "value1": 6
+    },
+    {
+      "name": "Singapore",
+      "country": "Singapore",
+      "value1": 6
+    },
+    {
+      "name": "United Kingdom",
+      "country": "United Kingdom",
+      "value1": 6
+    },
+    {
+      "name": "Chile",
+      "country": "Chile",
+      "value1": 6
+    },
+    {
+      "name": "Panama",
+      "country": "Panama",
+      "value1": 6
+    },
+    {
+      "name": "Argentina",
+      "country": "Argentina",
+      "value1": 6
+    },
+    {
+      "name": "Czech Republic",
+      "country": "Czech Republic",
+      "value1": 6
+    },
+    {
+      "name": "United Arab Emirates",
+      "country": "United Arab Emirates",
+      "value1": 6
+    },
+    {
+      "name": "Uruguay",
+      "country": "Uruguay",
+      "value1": 6
+    },
+    {
+      "name": "Malta",
+      "country": "Malta",
+      "value1": 6
+    },
+    {
+      "name": "Colombia",
+      "country": "Colombia",
+      "value1": 6
+    },
+    {
+      "name": "France",
+      "country": "France",
+      "value1": 6
+    },
+    {
+      "name": "Thailand",
+      "country": "Thailand",
+      "value1": 6
+    },
+    {
+      "name": "Saudi Arabia",
+      "country": "Saudi Arabia",
+      "value1": 6
+    },
+    {
+      "name": "Taiwan",
+      "country": "Taiwan",
+      "value1": 6
+    },
+    {
+      "name": "Qatar",
+      "country": "Qatar",
+      "value1": 6
+    },
+    {
+      "name": "Spain",
+      "country": "Spain",
+      "value1": 6
+    },
+    {
+      "name": "Algeria",
+      "country": "Algeria",
+      "value1": 6
+    },
+    {
+      "name": "Guatemala",
+      "country": "Guatemala",
+      "value1": 6
+    },
+    {
+      "name": "Suriname",
+      "country": "Suriname",
+      "value1": 6
+    },
+    {
+      "name": "Kuwait",
+      "country": "Kuwait",
+      "value1": 6
+    },
+    {
+      "name": "Bahrain",
+      "country": "Bahrain",
+      "value1": 6
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "country": "Trinidad and Tobago",
+      "value1": 6
+    },
+    {
+      "name": "Venezuela",
+      "country": "Venezuela",
+      "value1": 6
+    },
+    {
+      "name": "Slovakia",
+      "country": "Slovakia",
+      "value1": 6
+    },
+    {
+      "name": "El Salvador",
+      "country": "El Salvador",
+      "value1": 6
+    },
+    {
+      "name": "Malaysia",
+      "country": "Malaysia",
+      "value1": 6
+    },
+    {
+      "name": "Nicaragua",
+      "country": "Nicaragua",
+      "value1": 5
+    },
+    {
+      "name": "Uzbekistan",
+      "country": "Uzbekistan",
+      "value1": 5
+    },
+    {
+      "name": "Italy",
+      "country": "Italy",
+      "value1": 5
+    },
+    {
+      "name": "Ecuador",
+      "country": "Ecuador",
+      "value1": 5
+    },
+    {
+      "name": "Belize",
+      "country": "Belize",
+      "value1": 5
+    },
+    {
+      "name": "Japan",
+      "country": "Japan",
+      "value1": 5
+    },
+    {
+      "name": "Kazakhstan",
+      "country": "Kazakhstan",
+      "value1": 5
+    },
+    {
+      "name": "Moldova",
+      "country": "Moldova",
+      "value1": 5
+    },
+    {
+      "name": "Russia",
+      "country": "Russia",
+      "value1": 5
+    },
+    {
+      "name": "Poland",
+      "country": "Poland",
+      "value1": 5
+    },
+    {
+      "name": "South Korea",
+      "country": "South Korea",
+      "value1": 5
+    },
+    {
+      "name": "Bolivia",
+      "country": "Bolivia",
+      "value1": 5
+    },
+    {
+      "name": "Lithuania",
+      "country": "Lithuania",
+      "value1": 5
+    },
+    {
+      "name": "Belarus",
+      "country": "Belarus",
+      "value1": 5
+    },
+    {
+      "name": "North Cyprus",
+      "country": "North Cyprus",
+      "value1": 5
+    },
+    {
+      "name": "Slovenia",
+      "country": "Slovenia",
+      "value1": 5
+    },
+    {
+      "name": "Peru",
+      "country": "Peru",
+      "value1": 5
+    },
+    {
+      "name": "Turkmenistan",
+      "country": "Turkmenistan",
+      "value1": 5
+    },
+    {
+      "name": "Mauritius",
+      "country": "Mauritius",
+      "value1": 5
+    },
+    {
+      "name": "Libya",
+      "country": "Libya",
+      "value1": 5
+    },
+    {
+      "name": "Latvia",
+      "country": "Latvia",
+      "value1": 5
+    },
+    {
+      "name": "Cyprus",
+      "country": "Cyprus",
+      "value1": 5
+    },
+    {
+      "name": "Paraguay",
+      "country": "Paraguay",
+      "value1": 5
+    },
+    {
+      "name": "Romania",
+      "country": "Romania",
+      "value1": 5
+    },
+    {
+      "name": "Estonia",
+      "country": "Estonia",
+      "value1": 5
+    },
+    {
+      "name": "Jamaica",
+      "country": "Jamaica",
+      "value1": 5
+    },
+    {
+      "name": "Croatia",
+      "country": "Croatia",
+      "value1": 5
+    },
+    {
+      "name": "Hong Kong",
+      "country": "Hong Kong",
+      "value1": 5
+    },
+    {
+      "name": "Somalia",
+      "country": "Somalia",
+      "value1": 5
+    },
+    {
+      "name": "Kosovo",
+      "country": "Kosovo",
+      "value1": 5
+    },
+    {
+      "name": "Turkey",
+      "country": "Turkey",
+      "value1": 5
+    },
+    {
+      "name": "Indonesia",
+      "country": "Indonesia",
+      "value1": 5
+    },
+    {
+      "name": "Jordan",
+      "country": "Jordan",
+      "value1": 5
+    },
+    {
+      "name": "Azerbaijan",
+      "country": "Azerbaijan",
+      "value1": 5
+    },
+    {
+      "name": "Philippines",
+      "country": "Philippines",
+      "value1": 5
+    },
+    {
+      "name": "China",
+      "country": "China",
+      "value1": 5
+    },
+    {
+      "name": "Bhutan",
+      "country": "Bhutan",
+      "value1": 5
+    },
+    {
+      "name": "Kyrgyzstan",
+      "country": "Kyrgyzstan",
+      "value1": 5
+    },
+    {
+      "name": "Serbia",
+      "country": "Serbia",
+      "value1": 5
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "country": "Bosnia and Herzegovina",
+      "value1": 5
+    },
+    {
+      "name": "Montenegro",
+      "country": "Montenegro",
+      "value1": 5
+    },
+    {
+      "name": "Dominican Republic",
+      "country": "Dominican Republic",
+      "value1": 5
+    },
+    {
+      "name": "Morocco",
+      "country": "Morocco",
+      "value1": 5
+    },
+    {
+      "name": "Hungary",
+      "country": "Hungary",
+      "value1": 5
+    },
+    {
+      "name": "Pakistan",
+      "country": "Pakistan",
+      "value1": 5
+    },
+    {
+      "name": "Lebanon",
+      "country": "Lebanon",
+      "value1": 5
+    },
+    {
+      "name": "Portugal",
+      "country": "Portugal",
+      "value1": 5
+    },
+    {
+      "name": "Macedonia",
+      "country": "Macedonia",
+      "value1": 5
+    },
+    {
+      "name": "Vietnam",
+      "country": "Vietnam",
+      "value1": 5
+    },
+    {
+      "name": "Somaliland Region",
+      "country": "Somaliland Region",
+      "value1": 5
+    },
+    {
+      "name": "Tunisia",
+      "country": "Tunisia",
+      "value1": 5
+    },
+    {
+      "name": "Greece",
+      "country": "Greece",
+      "value1": 5
+    },
+    {
+      "name": "Tajikistan",
+      "country": "Tajikistan",
+      "value1": 4
+    },
+    {
+      "name": "Mongolia",
+      "country": "Mongolia",
+      "value1": 4
+    },
+    {
+      "name": "Laos",
+      "country": "Laos",
+      "value1": 4
+    },
+    {
+      "name": "Nigeria",
+      "country": "Nigeria",
+      "value1": 4
+    },
+    {
+      "name": "Honduras",
+      "country": "Honduras",
+      "value1": 4
+    },
+    {
+      "name": "Iran",
+      "country": "Iran",
+      "value1": 4
+    },
+    {
+      "name": "Zambia",
+      "country": "Zambia",
+      "value1": 4
+    },
+    {
+      "name": "Nepal",
+      "country": "Nepal",
+      "value1": 4
+    },
+    {
+      "name": "Palestinian Territories",
+      "country": "Palestinian Territories",
+      "value1": 4
+    },
+    {
+      "name": "Albania",
+      "country": "Albania",
+      "value1": 4
+    },
+    {
+      "name": "Bangladesh",
+      "country": "Bangladesh",
+      "value1": 4
+    },
+    {
+      "name": "Sierra Leone",
+      "country": "Sierra Leone",
+      "value1": 4
+    },
+    {
+      "name": "Iraq",
+      "country": "Iraq",
+      "value1": 4
+    },
+    {
+      "name": "Namibia",
+      "country": "Namibia",
+      "value1": 4
+    },
+    {
+      "name": "Cameroon",
+      "country": "Cameroon",
+      "value1": 4
+    },
+    {
+      "name": "Ethiopia",
+      "country": "Ethiopia",
+      "value1": 4
+    },
+    {
+      "name": "South Africa",
+      "country": "South Africa",
+      "value1": 4
+    },
+    {
+      "name": "Sri Lanka",
+      "country": "Sri Lanka",
+      "value1": 4
+    },
+    {
+      "name": "India",
+      "country": "India",
+      "value1": 4
+    },
+    {
+      "name": "Myanmar",
+      "country": "Myanmar",
+      "value1": 4
+    },
+    {
+      "name": "Egypt",
+      "country": "Egypt",
+      "value1": 4
+    },
+    {
+      "name": "Armenia",
+      "country": "Armenia",
+      "value1": 4
+    },
+    {
+      "name": "Kenya",
+      "country": "Kenya",
+      "value1": 4
+    },
+    {
+      "name": "Ukraine",
+      "country": "Ukraine",
+      "value1": 4
+    },
+    {
+      "name": "Ghana",
+      "country": "Ghana",
+      "value1": 4
+    },
+    {
+      "name": "Congo (Kinshasa)",
+      "country": "Congo (Kinshasa)",
+      "value1": 4
+    },
+    {
+      "name": "Georgia",
+      "country": "Georgia",
+      "value1": 4
+    },
+    {
+      "name": "Congo (Brazzaville)",
+      "country": "Congo (Brazzaville)",
+      "value1": 4
+    },
+    {
+      "name": "Senegal",
+      "country": "Senegal",
+      "value1": 4
+    },
+    {
+      "name": "Bulgaria",
+      "country": "Bulgaria",
+      "value1": 4
+    },
+    {
+      "name": "Mauritania",
+      "country": "Mauritania",
+      "value1": 4
+    },
+    {
+      "name": "Zimbabwe",
+      "country": "Zimbabwe",
+      "value1": 4
+    },
+    {
+      "name": "Malawi",
+      "country": "Malawi",
+      "value1": 4
+    },
+    {
+      "name": "Sudan",
+      "country": "Sudan",
+      "value1": 4
+    },
+    {
+      "name": "Gabon",
+      "country": "Gabon",
+      "value1": 4
+    },
+    {
+      "name": "Mali",
+      "country": "Mali",
+      "value1": 4
+    },
+    {
+      "name": "Haiti",
+      "country": "Haiti",
+      "value1": 4
+    },
+    {
+      "name": "Botswana",
+      "country": "Botswana",
+      "value1": 3
+    },
+    {
+      "name": "Comoros",
+      "country": "Comoros",
+      "value1": 3
+    },
+    {
+      "name": "Ivory Coast",
+      "country": "Ivory Coast",
+      "value1": 3
+    },
+    {
+      "name": "Cambodia",
+      "country": "Cambodia",
+      "value1": 3
+    },
+    {
+      "name": "Angola",
+      "country": "Angola",
+      "value1": 3
+    },
+    {
+      "name": "Niger",
+      "country": "Niger",
+      "value1": 3
+    },
+    {
+      "name": "South Sudan",
+      "country": "South Sudan",
+      "value1": 3
+    },
+    {
+      "name": "Chad",
+      "country": "Chad",
+      "value1": 3
+    },
+    {
+      "name": "Burkina Faso",
+      "country": "Burkina Faso",
+      "value1": 3
+    },
+    {
+      "name": "Uganda",
+      "country": "Uganda",
+      "value1": 3
+    },
+    {
+      "name": "Yemen",
+      "country": "Yemen",
+      "value1": 3
+    },
+    {
+      "name": "Madagascar",
+      "country": "Madagascar",
+      "value1": 3
+    },
+    {
+      "name": "Tanzania",
+      "country": "Tanzania",
+      "value1": 3
+    },
+    {
+      "name": "Liberia",
+      "country": "Liberia",
+      "value1": 3
+    },
+    {
+      "name": "Guinea",
+      "country": "Guinea",
+      "value1": 3
+    },
+    {
+      "name": "Rwanda",
+      "country": "Rwanda",
+      "value1": 3
+    },
+    {
+      "name": "Benin",
+      "country": "Benin",
+      "value1": 3
+    },
+    {
+      "name": "Afghanistan",
+      "country": "Afghanistan",
+      "value1": 3
+    },
+    {
+      "name": "Togo",
+      "country": "Togo",
+      "value1": 3
+    },
+    {
+      "name": "Syria",
+      "country": "Syria",
+      "value1": 2
+    },
+    {
+      "name": "Burundi",
+      "country": "Burundi",
+      "value1": 2
+    }
+  ]

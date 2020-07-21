@@ -1,0 +1,792 @@
+[
+    {
+      "Country": "Switzerland",
+      "Happiness Score": 7.587,
+      "Health": 0.94143
+    },
+    {
+      "Country": "Iceland",
+      "Happiness Score": 7.561,
+      "Health": 0.94784
+    },
+    {
+      "Country": "Denmark",
+      "Happiness Score": 7.527,
+      "Health": 0.87464
+    },
+    {
+      "Country": "Norway",
+      "Happiness Score": 7.522,
+      "Health": 0.88521
+    },
+    {
+      "Country": "Canada",
+      "Happiness Score": 7.427,
+      "Health": 0.90563
+    },
+    {
+      "Country": "Finland",
+      "Happiness Score": 7.406,
+      "Health": 0.88911
+    },
+    {
+      "Country": "Netherlands",
+      "Happiness Score": 7.378,
+      "Health": 0.89284
+    },
+    {
+      "Country": "Sweden",
+      "Happiness Score": 7.364,
+      "Health": 0.91087
+    },
+    {
+      "Country": "New Zealand",
+      "Happiness Score": 7.286,
+      "Health": 0.90837
+    },
+    {
+      "Country": "Australia",
+      "Happiness Score": 7.284,
+      "Health": 0.93156
+    },
+    {
+      "Country": "Israel",
+      "Happiness Score": 7.278,
+      "Health": 0.91387
+    },
+    {
+      "Country": "Costa Rica",
+      "Happiness Score": 7.226,
+      "Health": 0.86027
+    },
+    {
+      "Country": "Austria",
+      "Happiness Score": 7.2,
+      "Health": 0.89042
+    },
+    {
+      "Country": "Mexico",
+      "Happiness Score": 7.187,
+      "Health": 0.81444
+    },
+    {
+      "Country": "United States",
+      "Happiness Score": 7.119,
+      "Health": 0.86179
+    },
+    {
+      "Country": "Brazil",
+      "Happiness Score": 6.983,
+      "Health": 0.69702
+    },
+    {
+      "Country": "Luxembourg",
+      "Happiness Score": 6.946,
+      "Health": 0.91894
+    },
+    {
+      "Country": "Ireland",
+      "Happiness Score": 6.94,
+      "Health": 0.89533
+    },
+    {
+      "Country": "Belgium",
+      "Happiness Score": 6.937,
+      "Health": 0.89667
+    },
+    {
+      "Country": "United Arab Emirates",
+      "Happiness Score": 6.901,
+      "Health": 0.80925
+    },
+    {
+      "Country": "United Kingdom",
+      "Happiness Score": 6.867,
+      "Health": 0.90943
+    },
+    {
+      "Country": "Oman",
+      "Happiness Score": 6.853,
+      "Health": 0.76276
+    },
+    {
+      "Country": "Venezuela",
+      "Happiness Score": 6.81,
+      "Health": 0.72052
+    },
+    {
+      "Country": "Singapore",
+      "Happiness Score": 6.798,
+      "Health": 1.02525
+    },
+    {
+      "Country": "Panama",
+      "Happiness Score": 6.786,
+      "Health": 0.79661
+    },
+    {
+      "Country": "Germany",
+      "Happiness Score": 6.75,
+      "Health": 0.89186
+    },
+    {
+      "Country": "Chile",
+      "Happiness Score": 6.67,
+      "Health": 0.85857
+    },
+    {
+      "Country": "Qatar",
+      "Happiness Score": 6.611,
+      "Health": 0.79733
+    },
+    {
+      "Country": "France",
+      "Happiness Score": 6.575,
+      "Health": 0.94579
+    },
+    {
+      "Country": "Argentina",
+      "Happiness Score": 6.574,
+      "Health": 0.78723
+    },
+    {
+      "Country": "Czech Republic",
+      "Happiness Score": 6.505,
+      "Health": 0.84483
+    },
+    {
+      "Country": "Uruguay",
+      "Happiness Score": 6.485,
+      "Health": 0.8116
+    },
+    {
+      "Country": "Colombia",
+      "Happiness Score": 6.477,
+      "Health": 0.69077
+    },
+    {
+      "Country": "Thailand",
+      "Happiness Score": 6.455,
+      "Health": 0.7385
+    },
+    {
+      "Country": "Saudi Arabia",
+      "Happiness Score": 6.411,
+      "Health": 0.72025
+    },
+    {
+      "Country": "Spain",
+      "Happiness Score": 6.329,
+      "Health": 0.95562
+    },
+    {
+      "Country": "Malta",
+      "Happiness Score": 6.302,
+      "Health": 0.88721
+    },
+    {
+      "Country": "Taiwan",
+      "Happiness Score": 6.298,
+      "Health": 0.8753
+    },
+    {
+      "Country": "Kuwait",
+      "Happiness Score": 6.295,
+      "Health": 0.72492
+    },
+    {
+      "Country": "Suriname",
+      "Happiness Score": 6.269,
+      "Health": 0.6082
+    },
+    {
+      "Country": "Trinidad and Tobago",
+      "Happiness Score": 6.168,
+      "Health": 0.61483
+    },
+    {
+      "Country": "El Salvador",
+      "Happiness Score": 6.13,
+      "Health": 0.67737
+    },
+    {
+      "Country": "Guatemala",
+      "Happiness Score": 6.123,
+      "Health": 0.64425
+    },
+    {
+      "Country": "Uzbekistan",
+      "Happiness Score": 6.003,
+      "Health": 0.59772
+    },
+    {
+      "Country": "Slovakia",
+      "Happiness Score": 5.995,
+      "Health": 0.78902
+    },
+    {
+      "Country": "Japan",
+      "Happiness Score": 5.987,
+      "Health": 0.99111
+    },
+    {
+      "Country": "South Korea",
+      "Happiness Score": 5.984,
+      "Health": 0.96538
+    },
+    {
+      "Country": "Ecuador",
+      "Happiness Score": 5.975,
+      "Health": 0.79075
+    },
+    {
+      "Country": "Bahrain",
+      "Happiness Score": 5.96,
+      "Health": 0.74716
+    },
+    {
+      "Country": "Italy",
+      "Happiness Score": 5.948,
+      "Health": 0.95446
+    },
+    {
+      "Country": "Bolivia",
+      "Happiness Score": 5.89,
+      "Health": 0.5392
+    },
+    {
+      "Country": "Moldova",
+      "Happiness Score": 5.889,
+      "Health": 0.61826
+    },
+    {
+      "Country": "Paraguay",
+      "Happiness Score": 5.878,
+      "Health": 0.66098
+    },
+    {
+      "Country": "Kazakhstan",
+      "Happiness Score": 5.855,
+      "Health": 0.64368
+    },
+    {
+      "Country": "Slovenia",
+      "Happiness Score": 5.848,
+      "Health": 0.87337
+    },
+    {
+      "Country": "Lithuania",
+      "Happiness Score": 5.833,
+      "Health": 0.73128
+    },
+    {
+      "Country": "Nicaragua",
+      "Happiness Score": 5.828,
+      "Health": 0.74314
+    },
+    {
+      "Country": "Peru",
+      "Happiness Score": 5.824,
+      "Health": 0.73017
+    },
+    {
+      "Country": "Belarus",
+      "Happiness Score": 5.813,
+      "Health": 0.73608
+    },
+    {
+      "Country": "Poland",
+      "Happiness Score": 5.791,
+      "Health": 0.77903
+    },
+    {
+      "Country": "Malaysia",
+      "Happiness Score": 5.77,
+      "Health": 0.72394
+    },
+    {
+      "Country": "Croatia",
+      "Happiness Score": 5.759,
+      "Health": 0.78805
+    },
+    {
+      "Country": "Libya",
+      "Happiness Score": 5.754,
+      "Health": 0.7038
+    },
+    {
+      "Country": "Russia",
+      "Happiness Score": 5.716,
+      "Health": 0.66926
+    },
+    {
+      "Country": "Jamaica",
+      "Happiness Score": 5.709,
+      "Health": 0.68741
+    },
+    {
+      "Country": "North Cyprus",
+      "Happiness Score": 5.695,
+      "Health": 0.92356
+    },
+    {
+      "Country": "Cyprus",
+      "Happiness Score": 5.689,
+      "Health": 0.92356
+    },
+    {
+      "Country": "Algeria",
+      "Happiness Score": 5.605,
+      "Health": 0.61766
+    },
+    {
+      "Country": "Kosovo",
+      "Happiness Score": 5.589,
+      "Health": 0.63132
+    },
+    {
+      "Country": "Turkmenistan",
+      "Happiness Score": 5.548,
+      "Health": 0.53886
+    },
+    {
+      "Country": "Mauritius",
+      "Happiness Score": 5.477,
+      "Health": 0.7095
+    },
+    {
+      "Country": "Hong Kong",
+      "Happiness Score": 5.474,
+      "Health": 1.01328
+    },
+    {
+      "Country": "Estonia",
+      "Happiness Score": 5.429,
+      "Health": 0.77361
+    },
+    {
+      "Country": "Indonesia",
+      "Happiness Score": 5.399,
+      "Health": 0.63793
+    },
+    {
+      "Country": "Vietnam",
+      "Happiness Score": 5.36,
+      "Health": 0.74676
+    },
+    {
+      "Country": "Turkey",
+      "Happiness Score": 5.332,
+      "Health": 0.73172
+    },
+    {
+      "Country": "Kyrgyzstan",
+      "Happiness Score": 5.286,
+      "Health": 0.65088
+    },
+    {
+      "Country": "Nigeria",
+      "Happiness Score": 5.268,
+      "Health": 0.16007
+    },
+    {
+      "Country": "Bhutan",
+      "Happiness Score": 5.253,
+      "Health": 0.57407
+    },
+    {
+      "Country": "Azerbaijan",
+      "Happiness Score": 5.212,
+      "Health": 0.64045
+    },
+    {
+      "Country": "Pakistan",
+      "Happiness Score": 5.194,
+      "Health": 0.51466
+    },
+    {
+      "Country": "Jordan",
+      "Happiness Score": 5.192,
+      "Health": 0.69639
+    },
+    {
+      "Country": "Montenegro",
+      "Happiness Score": 5.192,
+      "Health": 0.72521
+    },
+    {
+      "Country": "China",
+      "Happiness Score": 5.14,
+      "Health": 0.81658
+    },
+    {
+      "Country": "Zambia",
+      "Happiness Score": 5.129,
+      "Health": 0.29924
+    },
+    {
+      "Country": "Romania",
+      "Happiness Score": 5.124,
+      "Health": 0.7689
+    },
+    {
+      "Country": "Serbia",
+      "Happiness Score": 5.123,
+      "Health": 0.74836
+    },
+    {
+      "Country": "Portugal",
+      "Happiness Score": 5.102,
+      "Health": 0.87519
+    },
+    {
+      "Country": "Latvia",
+      "Happiness Score": 5.098,
+      "Health": 0.72437
+    },
+    {
+      "Country": "Philippines",
+      "Happiness Score": 5.073,
+      "Health": 0.58114
+    },
+    {
+      "Country": "Somaliland region",
+      "Happiness Score": 5.057,
+      "Health": 0.43873
+    },
+    {
+      "Country": "Morocco",
+      "Happiness Score": 5.013,
+      "Health": 0.60954
+    },
+    {
+      "Country": "Macedonia",
+      "Happiness Score": 5.007,
+      "Health": 0.73545
+    },
+    {
+      "Country": "Mozambique",
+      "Happiness Score": 4.971,
+      "Health": 0.09131
+    },
+    {
+      "Country": "Albania",
+      "Happiness Score": 4.959,
+      "Health": 0.81325
+    },
+    {
+      "Country": "Bosnia and Herzegovina",
+      "Happiness Score": 4.949,
+      "Health": 0.79081
+    },
+    {
+      "Country": "Lesotho",
+      "Happiness Score": 4.898,
+      "Health": 0.07612
+    },
+    {
+      "Country": "Dominican Republic",
+      "Happiness Score": 4.885,
+      "Health": 0.66825
+    },
+    {
+      "Country": "Laos",
+      "Happiness Score": 4.876,
+      "Health": 0.54909
+    },
+    {
+      "Country": "Mongolia",
+      "Happiness Score": 4.874,
+      "Health": 0.60268
+    },
+    {
+      "Country": "Swaziland",
+      "Happiness Score": 4.867,
+      "Health": 0.07566
+    },
+    {
+      "Country": "Greece",
+      "Happiness Score": 4.857,
+      "Health": 0.88213
+    },
+    {
+      "Country": "Lebanon",
+      "Happiness Score": 4.839,
+      "Health": 0.83947
+    },
+    {
+      "Country": "Hungary",
+      "Happiness Score": 4.8,
+      "Health": 0.75905
+    },
+    {
+      "Country": "Honduras",
+      "Happiness Score": 4.788,
+      "Health": 0.6951
+    },
+    {
+      "Country": "Tajikistan",
+      "Happiness Score": 4.786,
+      "Health": 0.57379
+    },
+    {
+      "Country": "Tunisia",
+      "Happiness Score": 4.739,
+      "Health": 0.73793
+    },
+    {
+      "Country": "Palestinian Territories",
+      "Happiness Score": 4.715,
+      "Health": 0.66015
+    },
+    {
+      "Country": "Bangladesh",
+      "Happiness Score": 4.694,
+      "Health": 0.60164
+    },
+    {
+      "Country": "Iran",
+      "Happiness Score": 4.686,
+      "Health": 0.69805
+    },
+    {
+      "Country": "Ukraine",
+      "Happiness Score": 4.681,
+      "Health": 0.6739
+    },
+    {
+      "Country": "Iraq",
+      "Happiness Score": 4.677,
+      "Health": 0.60237
+    },
+    {
+      "Country": "South Africa",
+      "Happiness Score": 4.642,
+      "Health": 0.27688
+    },
+    {
+      "Country": "Ghana",
+      "Happiness Score": 4.633,
+      "Health": 0.40132
+    },
+    {
+      "Country": "Zimbabwe",
+      "Happiness Score": 4.61,
+      "Health": 0.33475
+    },
+    {
+      "Country": "Liberia",
+      "Happiness Score": 4.571,
+      "Health": 0.34201
+    },
+    {
+      "Country": "India",
+      "Happiness Score": 4.565,
+      "Health": 0.51529
+    },
+    {
+      "Country": "Sudan",
+      "Happiness Score": 4.55,
+      "Health": 0.36878
+    },
+    {
+      "Country": "Haiti",
+      "Happiness Score": 4.518,
+      "Health": 0.38847
+    },
+    {
+      "Country": "Congo (Kinshasa)",
+      "Happiness Score": 4.517,
+      "Health": 0.09806
+    },
+    {
+      "Country": "Nepal",
+      "Happiness Score": 4.514,
+      "Health": 0.56874
+    },
+    {
+      "Country": "Ethiopia",
+      "Happiness Score": 4.512,
+      "Health": 0.44055
+    },
+    {
+      "Country": "Sierra Leone",
+      "Happiness Score": 4.507,
+      "Health": 0
+    },
+    {
+      "Country": "Mauritania",
+      "Happiness Score": 4.436,
+      "Health": 0.35874
+    },
+    {
+      "Country": "Kenya",
+      "Happiness Score": 4.419,
+      "Health": 0.41435
+    },
+    {
+      "Country": "Djibouti",
+      "Happiness Score": 4.369,
+      "Health": 0.36291
+    },
+    {
+      "Country": "Armenia",
+      "Happiness Score": 4.35,
+      "Health": 0.7299
+    },
+    {
+      "Country": "Botswana",
+      "Happiness Score": 4.332,
+      "Health": 0.04776
+    },
+    {
+      "Country": "Myanmar",
+      "Happiness Score": 4.307,
+      "Health": 0.48246
+    },
+    {
+      "Country": "Georgia",
+      "Happiness Score": 4.297,
+      "Health": 0.72926
+    },
+    {
+      "Country": "Malawi",
+      "Happiness Score": 4.292,
+      "Health": 0.22562
+    },
+    {
+      "Country": "Sri Lanka",
+      "Happiness Score": 4.271,
+      "Health": 0.70806
+    },
+    {
+      "Country": "Cameroon",
+      "Happiness Score": 4.252,
+      "Health": 0.23402
+    },
+    {
+      "Country": "Bulgaria",
+      "Happiness Score": 4.218,
+      "Health": 0.76649
+    },
+    {
+      "Country": "Egypt",
+      "Happiness Score": 4.194,
+      "Health": 0.61712
+    },
+    {
+      "Country": "Yemen",
+      "Happiness Score": 4.077,
+      "Health": 0.40064
+    },
+    {
+      "Country": "Angola",
+      "Happiness Score": 4.033,
+      "Health": 0.16683
+    },
+    {
+      "Country": "Mali",
+      "Happiness Score": 3.995,
+      "Health": 0.20583
+    },
+    {
+      "Country": "Congo (Brazzaville)",
+      "Happiness Score": 3.989,
+      "Health": 0.31051
+    },
+    {
+      "Country": "Comoros",
+      "Happiness Score": 3.956,
+      "Health": 0.36315
+    },
+    {
+      "Country": "Uganda",
+      "Happiness Score": 3.931,
+      "Health": 0.33861
+    },
+    {
+      "Country": "Senegal",
+      "Happiness Score": 3.904,
+      "Health": 0.4354
+    },
+    {
+      "Country": "Gabon",
+      "Happiness Score": 3.896,
+      "Health": 0.43372
+    },
+    {
+      "Country": "Niger",
+      "Happiness Score": 3.845,
+      "Health": 0.29707
+    },
+    {
+      "Country": "Cambodia",
+      "Happiness Score": 3.819,
+      "Health": 0.61114
+    },
+    {
+      "Country": "Tanzania",
+      "Happiness Score": 3.781,
+      "Health": 0.38215
+    },
+    {
+      "Country": "Madagascar",
+      "Happiness Score": 3.681,
+      "Health": 0.46721
+    },
+    {
+      "Country": "Central African Republic",
+      "Happiness Score": 3.678,
+      "Health": 0.06699
+    },
+    {
+      "Country": "Chad",
+      "Happiness Score": 3.667,
+      "Health": 0.1501
+    },
+    {
+      "Country": "Guinea",
+      "Happiness Score": 3.656,
+      "Health": 0.24009
+    },
+    {
+      "Country": "Ivory Coast",
+      "Happiness Score": 3.655,
+      "Health": 0.15185
+    },
+    {
+      "Country": "Burkina Faso",
+      "Happiness Score": 3.587,
+      "Health": 0.27125
+    },
+    {
+      "Country": "Afghanistan",
+      "Happiness Score": 3.575,
+      "Health": 0.30335
+    },
+    {
+      "Country": "Rwanda",
+      "Happiness Score": 3.465,
+      "Health": 0.42864
+    },
+    {
+      "Country": "Benin",
+      "Happiness Score": 3.34,
+      "Health": 0.3191
+    },
+    {
+      "Country": "Syria",
+      "Happiness Score": 3.006,
+      "Health": 0.72193
+    },
+    {
+      "Country": "Burundi",
+      "Happiness Score": 2.905,
+      "Health": 0.22396
+    },
+    {
+      "Country": "Togo",
+      "Happiness Score": 2.839,
+      "Health": 0.28443
+    }
+  ]
