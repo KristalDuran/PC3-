@@ -1,20 +1,9 @@
 import * as React from "react";
-import * as ReactDOM from "react-dom";
-import { MapAjax } from '@syncfusion/ej2-maps';
 import {
-    MapsComponent, Inject, ILoadedEventArgs, MapsTheme, LayersDirective, LayerDirective,
-    ProjectionType, MapsTooltip, Legend, ITooltipRenderEventArgs, Selection, Highlight
+    MapsComponent, Inject, LayersDirective, LayerDirective, MapsTooltip, Legend, Selection, Highlight
 } from '@syncfusion/ej2-react-maps';
-import { Browser } from '@syncfusion/ej2-base';
-// import { SampleBase } from './sample-base';
 import datasource from './tooltip-datasource.json';
-// let datasource =      data;
 import world from './world-map.json';
-
-const SAMPLE_CSS = `
-    .control-fluid {
-		padding: 0px !important;
-    }`;
     
 export class Mapa extends React.Component {
 
@@ -24,16 +13,11 @@ export class Mapa extends React.Component {
     this.state = {
         mapInstance: '',
         ver: false,
-        pais: '',
-        SAMPLE_CSS: `
-    .control-fluid {
-		padding: 0px !important;
-    }`
+        pais: ''
     };
   }
   
   onMapsLoad(args) {
-    // 
     let maps = document.getElementById('maps');
     maps.setAttribute('title', '');
   };
@@ -49,19 +33,13 @@ export class Mapa extends React.Component {
     this.props.onClick(info)
   }
 
-  shapeSelected(args) {
-    console.log(args)
-    // state.innerText = (args.data).State;
-}
-
   render(){
     return (
         <div className='control-pane'>
             <div className='control-section row'>
-                <div className='col-md-12'>
-                    <MapsComponent id="maps" 
-                    // tooltipRender={this.tooltipRender.bind(this)} 
-                    loaded={this.onMapsLoad.bind(this)} load={this.load} 
+                <div className='col-md-1'>
+                    <MapsComponent id="maps"
+                        loaded={this.onMapsLoad.bind(this)} load={this.load} 
                         zoomSettings={{
                             enable: false
                         }}

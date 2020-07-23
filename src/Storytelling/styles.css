@@ -1,0 +1,26 @@
+
+
+.Storytelling-title{
+    font-size: calc(20px + 4vmin);
+}
+
+.Storytelling-info{
+    border-color: rgb(248, 236, 222);
+    font-size: 20px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Storytelling-info2{
+    font-size: 30px;
+}
+
+.Storytelling-data{
+    width: 300px !important;
+}
+
+.Storytelling-row{
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,23 @@
+
+.Futter{
+    display: flex;
+    flex-direction: row;
+    background: #f7ad3f;
+    color: white;
+    height: 200px;
+    align-items: center;
+    
+}
+
+.Futter-titulo{
+    font-size: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin: 100px; */
+}
+
+.Futter-texto{
+    font-size: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+}

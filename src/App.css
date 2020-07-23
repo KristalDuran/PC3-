@@ -36,7 +36,7 @@
   height: 1050px;
 }
 .App-header-bajar{
-margin-top: 150px;
+width: 400px;
 }
 
 .App-map{
@@ -62,6 +62,7 @@ margin-top: 150px;
 }
 .App-button{
   margin-top: 150px !important;
+  margin-bottom: 30px !important;
 }
 .App-Storytelling{
   background: #f7ad3f;
@@ -73,11 +74,10 @@ margin-top: 150px;
 }
 
 .App-data{
-  margin-top: 100px !important;
+  display: flex;
+  flex-direction: row;
 }
-.App-infoPais{
-  /* background-color: #D8B216; */
-}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

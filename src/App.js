@@ -8,6 +8,8 @@ import { Button } from '@material-ui/core';
 import ImportContactsIcon from '@material-ui/icons/ImportContacts';
 import world from './world-map.json';
 import Data from './data';
+import Futter from './Futter/index';
+import Storytelling from './Storytelling/index';
 
 export class App extends React.Component {
 
@@ -17,7 +19,8 @@ export class App extends React.Component {
     this.state = {
       ver: false,
       pais: null,
-      paisInfo: {}  
+      paisInfo: {},
+      storytelling: false
     };
     this.mapRef = React.createRef();
   }
@@ -50,6 +53,10 @@ export class App extends React.Component {
     this.setState({ pais:null})
   }
 
+  onClickStorytelling(){
+    this.setState({storytelling:!this.state.storytelling})
+  }
+
   render(){
     this.convert();
     return (
@@ -65,38 +72,41 @@ export class App extends React.Component {
             <div className='App-infoPais'>
               <p className="App-info">¿Cuán feliz ha sido {this.state.pais} en los últimos años?</p>
               <MapaPais className='App-pais' paisInfo={this.state.paisInfo} onClick={this.onClick2.bind(this)}></MapaPais>
-              <div className='App-data'></div>
-              <Data className='App-data' countryName={this.state.pais}></Data>
+              <div className='App-data'>
+                <div className='App-header-bajar'></div>
+                <Data countryName={this.state.pais}></Data>
+              </div>
               <Button
                 className='App-button'
                 variant="contained"
                 color="default"
                 // className={classes.button}
+                onClick={this.onClick2.bind(this)}
                 endIcon={<ImportContactsIcon ver={this.state.ver} pais={this.state.pais}></ImportContactsIcon>}
               >
                 Volver al mapa
               </Button>
             </div>
           ):(
-            <div className="App-mapa">
-          <p className="App-info">Datos de felicidad en el mundo del año anterior</p>
-            <Mapa className='App-map' onClick={this.onClick.bind(this)}></Mapa>
-            <Button
-          className='App-button'
-            variant="contained"
-            color="default"
-            // className={classes.button}
-            endIcon={<ImportContactsIcon ver={this.state.ver} pais={this.state.pais}></ImportContactsIcon>}
-          >
-            Ver Storytelling
-          </Button>
-          {this.state.pais &&
-          <div className='App-Storytelling'></div>
-        }
-        </div>
-        
+            !this.state.storytelling ? (
+              <div className="App-mapa">
+                <p className="App-info">Datos de felicidad en el mundo del año anterior</p>
+                <Mapa className='App-map' onClick={this.onClick.bind(this)}></Mapa>
+                <Button
+                  className='App-button'
+                  variant="contained"
+                  color="default"
+                  onClick={this.onClickStorytelling.bind(this)}
+                  endIcon={<ImportContactsIcon ver={this.state.ver} pais={this.state.pais}></ImportContactsIcon>}
+                >
+                  Ver Storytelling
+                </Button>
+              </div>
+            ):(
+              <Storytelling onClickStorytelling={this.onClickStorytelling.bind(this)}></Storytelling>
+            )
           )}
-          
+          <Futter></Futter>
       </div>
     );
     }
